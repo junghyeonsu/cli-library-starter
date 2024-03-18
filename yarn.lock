@@ -55,3 +55,13 @@
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/@biomejs/cli-win32-x64/-/cli-win32-x64-1.6.1.tgz#ea70f4bc3662de8e576b47291bb93cbd18d09b81"
   integrity sha512-5TUZbzBwnDLFxLVGEPsorNi6eC2Gt+z4Oei9Qvq0M/4c4/mjZ96ABgwao/tMxf4ZBr/qyy2YdvF+gX9Rc+xC0A==
+
+calculate-utils-test@^0.0.0-typescript:
+  version "0.0.0-typescript"
+  resolved "https://registry.yarnpkg.com/calculate-utils-test/-/calculate-utils-test-0.0.0-typescript.tgz#a8373bfd3c887eb615e6de25421bd48d330f0bac"
+  integrity sha512-fGqk5D1LFIiJca9SsSlyF9uRcTJAzKviaSRMuSqrPnbjMl/X/ijl2Dw0ES/yoT4CrBr6fG2pZ4HbJUHsxOKUCg==
+
+commander@^12.0.0:
+  version "12.0.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-12.0.0.tgz#b929db6df8546080adfd004ab215ed48cf6f2592"
+  integrity sha512-MwVNWlYjDTtOjX5PiD7o5pK0UrFU/OYgcJfjjK4RaHZETNtjJqrZa9Y9ds88+A+f+d5lv+561eZ+yCKoS3gbAA==

@@ -1,11 +1,21 @@
 {
-  "name": "cli-library-starter",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "calculate-utils-test-cli",
+  "version": "0.0.1",
+  "main": "src/cli.js",
+  "files": [
+    "src"
+  ],
+  "bin": {
+    "calculate": "./src/cli.js"
+  },
   "repository": "https://github.com/junghyeonsu/cli-library-starter.git",
   "author": "정현수 <54893898+junghyeonsu@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
     "@biomejs/biome": "^1.6.1"
+  },
+  "dependencies": {
+    "calculate-utils-test": "^0.0.0-typescript",
+    "commander": "^12.0.0"
   }
 }
