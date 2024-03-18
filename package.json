@@ -1,0 +1,11 @@
+{
+  "name": "cli-library-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/junghyeonsu/cli-library-starter.git",
+  "author": "정현수 <54893898+junghyeonsu@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^1.6.1"
+  }
+}

@@ -1,2 +1,3 @@
-# npm-boilerplate
-NPM Boilerplates
+# cli-library-starter
+
+Node CLI library starter
